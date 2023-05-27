@@ -1,0 +1,12 @@
+html {
+    -webkit-text-size-adjust: 100%;
+}
+.checkout-side-menu {
+    width: 300px;
+    height: calc(100vh - 90px);
+    top: 68px;
+    right: 20px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 500px;
+}
